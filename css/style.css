@@ -1,0 +1,65 @@
+/*
+
+*/
+#main{
+	background-image: url("img/01.jpg");
+	background-size: cover;
+}
+#control{
+	width: 500px;
+	height: 350px;
+	background-color: #00000030;
+	margin: 0 auto;
+	margin-top: 150px;
+	padding-top: 10px;
+	padding-left: 50px;
+	border-radius: 10px;
+	font-weight: bolder;
+	color: white;
+	box-shadow: inset -4px -4px #00000030;
+}
+#control h3{
+	text-align: center;
+	margin-left: -30px;
+}
+#control input[type=text]{
+	width: 250px;
+	height: 30px;
+	border:0;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-top: 25px;
+}
+#control input[type=text],input[type=password]:focus{
+	outline: none;
+}
+#control input[type=password]{
+	width: 250px;
+	height: 30px;
+	border:0;
+	border-radius: 5px;
+	margin-left: 22px;
+	margin-top: 25px;
+}
+#control input[type=submit]{
+	font-weight: bolder;
+	color: white;
+	background-color: #406a95;
+	width: 100px;
+	height: 30px;
+	border:0;
+	border-radius: 5px;
+	margin-left: 150px;
+	margin-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
